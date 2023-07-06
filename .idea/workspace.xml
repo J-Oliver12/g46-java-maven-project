@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfaef90a-eb98-42d6-a26d-892902e7dfe7" name="Changes" comment="&quot;Updated version with option to en the program&quot;">
+    <list default="true" id="bfaef90a-eb98-42d6-a26d-892902e7dfe7" name="Changes" comment="&quot;Hello.java and Year.java file added &quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
     </list>
@@ -45,6 +45,26 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Apptwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.two.Apptwo" />
+      <module name="g46-java-maven-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.two.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Apptwo" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,13 +94,28 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1688583100036</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="&quot;Updated version with option to en the program&quot;">
+      <option name="closed" value="true" />
+      <created>1688641859554</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1688641859554</updated>
+    </task>
+    <task id="LOCAL−00005" summary="&quot;Hello.java and Year.java file added &quot;">
+      <option name="closed" value="true" />
+      <created>1688641982468</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1688641982468</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created Maven test project" />
     <MESSAGE value="Coded Workshop calculator app" />
     <MESSAGE value="&quot;Updated version with option to en the program&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Updated version with option to en the program&quot;" />
+    <MESSAGE value="&quot;Hello.java and Year.java file added &quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Hello.java and Year.java file added &quot;" />
   </component>
 </project>
