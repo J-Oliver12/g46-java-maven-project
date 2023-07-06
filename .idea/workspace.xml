@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfaef90a-eb98-42d6-a26d-892902e7dfe7" name="Changes" comment="&quot;Hello.java and Year.java file added &quot;">
+    <list default="true" id="bfaef90a-eb98-42d6-a26d-892902e7dfe7" name="Changes" comment="&quot;Improved App.java code by simplyfying the swith structure also added Apptwo.java file as an alternativ code model&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AverageNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +108,14 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1688641982468</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="&quot;Improved App.java code by simplyfying the swith structure also added Apptwo.java file as an alternativ code model&quot;">
+      <option name="closed" value="true" />
+      <created>1688662208342</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1688662208342</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -116,6 +123,7 @@
     <MESSAGE value="Coded Workshop calculator app" />
     <MESSAGE value="&quot;Updated version with option to en the program&quot;" />
     <MESSAGE value="&quot;Hello.java and Year.java file added &quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Hello.java and Year.java file added &quot;" />
+    <MESSAGE value="&quot;Improved App.java code by simplyfying the swith structure also added Apptwo.java file as an alternativ code model&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Improved App.java code by simplyfying the swith structure also added Apptwo.java file as an alternativ code model&quot;" />
   </component>
 </project>
