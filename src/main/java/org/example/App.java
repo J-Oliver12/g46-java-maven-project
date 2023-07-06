@@ -102,6 +102,9 @@ public class App {
                     System.out.print("Enter your choice (1-4): ");
                     choice = scanner.nextInt();
 
+                    System.out.println
+                            ("###################################");
+
                     System.out.print("\nEnter the first number: ");
                     num1 = scanner.nextDouble();
 
